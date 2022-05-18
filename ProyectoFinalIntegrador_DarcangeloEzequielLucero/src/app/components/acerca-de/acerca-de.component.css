@@ -6,3 +6,10 @@ div{
     text-align: center ; color: #fff;
     
 }
+
+/*etiqueta para editar el nombre*/
+#nombre{
+    font-weight: bold;
+    margin-top: 40%;
+    margin-left: 10px;
+}
