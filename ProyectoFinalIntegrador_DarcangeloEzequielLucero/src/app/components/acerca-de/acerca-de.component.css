@@ -12,10 +12,21 @@ div{
         position: absolute;
         width: 15%;
         border-radius: 100%;
-        box-shadow: 3px 3px 3px white;
+        box-shadow: 3px 3px 3px gray;
+        left: 2%;
+        top: 380px;
     }
 }
-
+@media (max-width: 575px){
+    #fotodeperfil{
+        position: absolute;
+        width: 30%;
+        border-radius: 100%;
+        box-shadow: 3px 3px 3px gray;
+        left: 35%;
+        top: 430px;
+    }
+}
 /*etiqueta para editar el nombre*/
 #nombre{
     font-weight: bold;
