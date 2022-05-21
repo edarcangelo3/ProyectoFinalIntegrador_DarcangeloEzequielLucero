@@ -8,13 +8,13 @@
 		<version>2.7.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.portfolio</groupId>
+	<groupId>com.edarcangelo3</groupId>
 	<artifactId>edarcangelo3</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>edarcangelo3</name>
-	<description>Portfolio de edarcangelo3</description>
+	<description>Portfolio</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>

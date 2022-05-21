@@ -1,4 +1,4 @@
-package com.portfolio.edarcangelo3;
+package com.edarcangelo3.edarcangelo3;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
